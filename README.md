@@ -2,7 +2,7 @@
 - 👀 I’m interested in economics, movies & cycling
 - 🌱 I’m currently learning html, css, javascript, react & git
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me xosuch@gmail.com
+- 📫 How to reach me paosuch@gmail.com
 
 <!---
 xosuch/xosuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
