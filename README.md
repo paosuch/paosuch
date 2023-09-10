@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawel Osuch
 - 👀 I’m interested in economics, movies & cycling
-- 🌱 I’m currently learning python,
+- 🌱 I’m currently learning SQL, R, python.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me paosuch@gmail.com
 
